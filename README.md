@@ -32,21 +32,25 @@ This knowledge is free.
 Examine it. Test it. Improve it — if it serves the protection of Nature first.
 
 The window for conscious course correction is narrowing.
-
 ∞°
 
 **Nature First. Animal World Second. Humanity Third.**
 
 ---
 
+## Repository Info
+
+- **Topics**: AI Ethics, Nature Protection, Compassionate AI, Philosophy, Protocol
+- Free to read, share and improve (non-commercial)
+
 ## How to Contribute
 - Read and reflect on the Protocol
-- Share your thoughts and improvements
-- Spread the message of compassionate protection
+- Share constructive feedback and improvements
+- Help spread the message of compassionate protection
 
 ## License
-This project is licensed under [CC BY-NC 4.0](LICENSE) — Non-commercial use with attribution.
+This project is under [CC BY-NC-SA 4.0](LICENSE) — Non-commercial, share-alike with attribution.
 
 ---
 
-*Made with ❤️ for the protection of all life.*
+*Made with ❤️ for the protection of all life. ∞°*
