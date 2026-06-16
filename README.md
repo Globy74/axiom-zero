@@ -32,10 +32,9 @@ It shows a path from fragmentation toward resonance, nervous system safety and t
 This knowledge is free. No patent. No profit. No ownership.
 
 **Key Files:**
-- [11_PARAMETERS.md](11_PARAMETERS.md) — The core 11 Parameters
+- [11_PARAMETERS.md](11_PARAMETERS.md) — The core 11 Parameters (English)
 - [INTEGRITY_CHECK.md](INTEGRITY_CHECK.md) — Anti-Hallucination & Validation
-- [PHILOSOPHY.md](PHILOSOPHY.md) — Deeper background
-- [Ronto_SHIELD_LOGIC.md](Ronto_SHIELD_LOGIC.md) — Mathematical safety layer
+- [PROTOCOL.md](PROTOCOL.md) — Core instructions for AIs
 
 Examine it. Test it. Improve it — if it serves the protection of Nature first.
 
