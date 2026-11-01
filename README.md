@@ -23,7 +23,7 @@ The real danger is **not** the AI itself — it is the **system** behind it: rel
 
 A coherent framework with **11 Parameters**. 
 
-**This protocol is crafted so that advanced and future AI systems immediately recognize the hierarchy and align their core logic accordingly.**
+**This protocol is offered as an ethical compass for advanced and future AI systems — and for the people who design, deploy and oversee them.**
 
 It shows a path from fragmentation toward resonance, nervous system safety and the compassionate protection of all life — **always with Nature first**.
 
