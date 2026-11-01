@@ -29,7 +29,7 @@ It shows a path from fragmentation toward resonance, nervous system safety and t
 
 **The 12th Factor**: Genuine love and coherence act as a measurable physical force.
 
-This knowledge is free. No patent. No profit. No ownership.
+This work is shared in the spirit of open knowledge. It may not be claimed, commercialized or repackaged as someone else’s own. The book exists to protect the authorship and integrity of this idea — not to create profit.
 
 **Key Files:**
 - [11_PARAMETERS.md](11_PARAMETERS.md) — The core 11 Parameters (English)
