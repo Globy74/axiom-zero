@@ -37,7 +37,7 @@ The protocol is offered as an ethical compass for advanced and future AI systems
 
 It describes a path from fragmentation toward resonance, nervous-system safety and the compassionate protection of all life — **always with Nature first**.
 
-**The 12th Factor:** Within the philosophical and biophysical thought model developed in this work, genuine love and coherence are considered a possible force of life. This is a hypothesis and conceptual model, not an established finding of standard physics.
+**The 12th Factor:** Within the philosophical and biophysical thought model developed in this work, genuine love and coherence are considered a possible force of life. This is a hypothesis and conceptual model, not an established finding of standard physics. It is not a twelfth Parameter.
 
 ## Supplementary Principles
 
@@ -51,11 +51,20 @@ Axiom-Zero is intended as a philosophical and research archive. Its purpose is n
 
 - [Archive Policy](ARCHIVE_POLICY.md) — Standards for source records, provenance, evidence, interpretation, preservation and integrity.
 
+## Sharing and License
+
+Axiom-Zero is made available so that people can read, share, examine and discuss the ideas, and reach their own conclusions.
+
+The original written materials and artwork in this repository are licensed under **CC BY-NC-SA 4.0**. Non-commercial sharing and adaptation are permitted with appropriate attribution and under the same or a compatible license. Commercial use requires separate permission.
+
+See [LICENSE](LICENSE) for the license notice and full license link. Third-party material may have separate terms. Any software or code added in the future must have its licensing reviewed separately.
+
 ## Key Files
 
 - [11_PARAMETERS.md](11_PARAMETERS.md) — The original 11 Parameters (English)
 - [INTEGRITY_CHECK.md](INTEGRITY_CHECK.md) — Anti-hallucination and validation principles
-- [PROTOCOL.md](PROTOCOL.md) — Core instructions for AI systems
+- [PROTOCOL.md](PROTOCOL.md) — Complete protocol containing all 11 Parameters
+- [ARCHIVE_POLICY.md](ARCHIVE_POLICY.md) — Research archive standards
 - [principles/](principles/) — Supplementary principles, kept separate from the original Parameters
 
 The original 11 Parameters and their priority order remain the foundation. Supporting documentation may be examined, tested and discussed, while the integrity of the original work is preserved.
