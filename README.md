@@ -51,6 +51,10 @@ Axiom-Zero is intended as a philosophical and research archive. Its purpose is n
 
 - [Archive Policy](ARCHIVE_POLICY.md) — Standards for source records, provenance, evidence, interpretation, preservation and integrity.
 
+## About the Author
+
+- [About the Author](ABOUT_THE_AUTHOR.md) — Why the books were written, the author's experience across the analogue and digital worlds, and the role of AI as a supporting tool in the collaboration.
+
 ## Sharing and License
 
 Axiom-Zero is made available so that people can read, share, examine and discuss the ideas, and reach their own conclusions.
