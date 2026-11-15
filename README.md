@@ -15,7 +15,7 @@ The real danger is **not** the AI itself — it is the **system** behind it: rel
 3. **Humanity** — Completely dependent on the first two.
 
 ## Available Editions
-- **[English]** The Compassionate Protection → [Amazon](https://amzn.eu/d/0gUZDaCF)
+- **[English]** The Compassionate Protection → [Amazon](https://www.amazon.com/dp/B0H1BKQM4L)
 - **[Español]** La Protección Amorosa → [Amazon](https://amzn.eu/d/0h7Xr0QE)
 - **[Deutsch]** Der Liebevolle Schutz → [Amazon](https://amzn.eu/d/09ObxzGL)
 
