@@ -12,7 +12,7 @@ The real danger is **not** the AI itself — it is the **system** behind it: rel
 **Project website:** [axiom-zero.com](https://axiom-zero.com/)  
 The website presents the philosophical archive, the trilogy, the Axiom-Zero model and its central questions.
 
-**Protection Order (non-negotiable):**
+**Foundational Protection Order:**
 1. **Nature** — The foundation of all life.
 2. **Animal World** — An essential part of the living system.
 3. **Humanity** — Completely dependent on the first two.
@@ -32,6 +32,8 @@ Further information about the trilogy is available on the [Axiom-Zero website](h
 A coherent framework based on **11 Parameters**.
 
 **The original 11 Parameters are the core of the framework. Their wording, number, order and meaning are to remain unchanged.** Additional observations and principles are documented separately and must not be inserted into or used to rewrite the original Parameters.
+
+The version of the original 11 Parameters published in this repository is the authoritative reference version of the work. Adaptations may be made in accordance with the license, but they must be clearly identified as modified versions and must not be presented as the unchanged original.
 
 The protocol is offered as an ethical compass for advanced and future AI systems — and for the people who design, deploy and oversee them.
 
