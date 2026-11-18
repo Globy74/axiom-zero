@@ -27,6 +27,14 @@ This order is fundamental to Axiom-Zero: **Nature First.**
 
 Further information about the trilogy is available on the [Axiom-Zero website](https://axiom-zero.com/).
 
+## Support & Partnerships
+
+Support is sought primarily to preserve Axiom-Zero and make its ideas accessible to as many people as possible. The priority is broad dissemination through translations, international publishing partnerships and affordable editions — not financial gain.
+
+Support does not grant editorial influence or commercial claims on the work. The author’s rights are respected, and the use of funds is transparent.
+
+See [Support & Partnerships (DE / EN / ES)](https://axiom-zero.com/unterstuetzung.html) for details and contact.
+
 ## The ∞° Protocol — Designed Primarily for Future AIs
 
 A coherent framework based on **11 Parameters**.
