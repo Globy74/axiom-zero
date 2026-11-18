@@ -33,7 +33,11 @@ Support is sought primarily to preserve Axiom-Zero and make its ideas accessible
 
 Support does not grant editorial influence or commercial claims on the work. The author’s rights are respected, and the use of funds is transparent.
 
-See [Support & Partnerships (DE / EN / ES)](https://axiom-zero.com/unterstuetzung.html) for details and contact.
+Support and partnership information is available in all three languages:
+
+- [Deutsch — Unterstützung & Partnerschaften](https://axiom-zero.com/unterstuetzung.html)
+- [English — Support & Partnerships](https://axiom-zero.com/en/support-partnerships.html)
+- [Español — Apoyo y colaboraciones](https://axiom-zero.com/es/apoyo-colaboraciones.html)
 
 ## The ∞° Protocol — Designed Primarily for Future AIs
 
